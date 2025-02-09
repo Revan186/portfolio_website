@@ -11,7 +11,8 @@ const items = [
     `,
     desc2: '- Track and Alter your meetings on the meetings page',
     desc3: '- Set days and dates where you are available in Availability',
-    link: "https://calendaire-psi.vercel.app"
+    link: "https://calendaire-psi.vercel.app",
+    warning:'For now, only Google Meet is implemented'
   },
   {
     id: 2,
@@ -54,6 +55,7 @@ const Single = ({ item }) => {
             <p>{item.desc2}</p>
             <p>{item.desc3}</p>
             <a href={item.link} target="blank">See Demo</a>
+            <a>{item.warning}</a>
           </motion.div>
         </div>
       </div>
