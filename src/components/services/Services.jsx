@@ -79,7 +79,7 @@ const Services = () => {
 
           </p>
 
-          <p>Have made some really beautiful websites, know web design at decent level. That being sad, i enjoy developing more than using Figma. </p>
+          <p>Have made some really beautiful websites, know web design at decent level. I use UI/UX with Figma often and on high level </p>
 
           <p>I also know Three Js quite well</p>
           <a href="#Contact">Go</a>
