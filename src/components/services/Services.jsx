@@ -63,7 +63,7 @@ const Services = () => {
           <h2>Server-side 
           </h2>
           <p>
-            My strongest side is everything related to backend engineering. I work with node Js and Golang, prefer Nest and Express. I know SQL incredibly well and use both relational and no-SQL databases really well.
+            I am particularly strong when it comes to everything related to backend engineering. I work with NodeJs, PHP and Python, very good with Django, Laravel, Flask, Nest, Express and FastAPI. I know SQL incredibly well and use both relational and no-SQL databases really well.
           </p>
 
           <p>I am excellent at designing a system which is secure, fast, failure-proof and will scale without database exploding and can solve errors efficiently.</p>
@@ -75,11 +75,11 @@ const Services = () => {
         >
           <h2>Client</h2>
           <p>
-            I have excellent both fundamental understanding and ability to use React, NextJs and RN with Expo, know state managers like Redux and Zustand.
+            Very high level of proficiency with React,NextJS, Vue and Angular, as well as Web Design. I possess excellent both fundamental understanding and ability to use theses frameworks, as well as RN with Expo for mobile development, know state managers like Redux and Zustand.
 
           </p>
 
-          <p>Have made some really beautiful websites, know web design at decent level. I use UI/UX with Figma often and on high level </p>
+          <p>Have made some really beautiful websites, know web design well for sure.</p>
 
           <p>I also know Three Js quite well</p>
           <a href="#Contact">Go</a>
