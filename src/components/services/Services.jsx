@@ -75,7 +75,7 @@ const Services = () => {
         >
           <h2>Client</h2>
           <p>
-            Very high level of proficiency with React,NextJS, Vue and Angular, as well as Web Design. I possess excellent both fundamental understanding and ability to use theses frameworks, as well as RN with Expo for mobile development, know state managers like Redux and Zustand.
+            Very high level of proficiency with React,NextJS, as well as Web Design. I possess excellent both fundamental understanding and ability to use theses frameworks, as well as RN with Expo for mobile development, know state managers like Redux and Zustand.
 
           </p>
 
