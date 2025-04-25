@@ -42,19 +42,19 @@ const items = [
     desc1: "- A fully interactive 3D Island with custom made bird, plane, fox and Island models",
     link:"https://github.com/Revan186/Island2"
   },
+  // {
+  //   id: 6,
+  //   title: "Calendaire",
+  //   img: "/ss1.png",
+  //   desc1: `- Schedule a Zoom, Google Meet or Microsoft Teams meeting with no pain 
+  //   `,
+  //   desc2: '- Track and Alter your meetings on the meetings page',
+  //   desc3: '- Set days and dates where you are available in Availability',
+  //   link: "https://calendaire-psi.vercel.app",
+  //   warning:'For now, only Google Meet is implemented, also one of the first works, better examples of my abilities are above'
+  // },
   {
     id: 6,
-    title: "Calendaire",
-    img: "/ss1.png",
-    desc1: `- Schedule a Zoom, Google Meet or Microsoft Teams meeting with no pain 
-    `,
-    desc2: '- Track and Alter your meetings on the meetings page',
-    desc3: '- Set days and dates where you are available in Availability',
-    link: "https://calendaire-psi.vercel.app",
-    warning:'For now, only Google Meet is implemented, also one of the first works, better examples of my abilities are above'
-  },
-  {
-    id: 7,
     title: "CaseCobra",
     img: "/ss2.png",
     desc1: "- Create a Custom Iphone case made just for you",
